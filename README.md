@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project_uts
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# E-Commerce-ETrade
+Aplikasi Flutter E-Commerce sederhana dengan sistem client server menggunakan firebase, dengan sistem tingkatan login untuk admin/penjual dan pembeli, berbasis mobile 
+>>>>>>> 90d342cb3e1aac361ca60f6bd9614e6a3dfdbc35
